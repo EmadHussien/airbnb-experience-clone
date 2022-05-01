@@ -1,0 +1,19 @@
+body {
+  margin: 0;
+  font-family: inter, sans-serif;
+  height: 100vh;
+  background-color: #FFFFFF;
+}
+html,body{
+  width: 100vw;
+  overflow-x: hidden;
+}
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+*{
+  margin: 0;
+  box-sizing: border-box;
+  padding: 0;
+}
