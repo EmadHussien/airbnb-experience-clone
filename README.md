@@ -1,4 +1,4 @@
-# airbnb-experience-clone
+# airbnb-experiences-clone
 
 Description : my first project in react and it covers these react concepts :
 1. Components
